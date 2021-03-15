@@ -7,6 +7,7 @@ character bio.
 
 
 Name: Sunny
+
 Nickname: Sunwai 
 Nationality: American
 
